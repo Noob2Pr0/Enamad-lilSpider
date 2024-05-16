@@ -9,7 +9,7 @@
 
 _فعالیت این خزنده قانونی می باشد زیرا تنها وب سایت هایی که در سایت اینماد ثبت نام کرده اند و خودشان اطلاعاتشان را به اشتراک گذاشته اند را جمع آوری می کند._
 
-شما می توانید بصورت مستقیم این بانک اطلاعاتی را که با نام **full-enamad-db.xlsx** مشخص شده است را دانلود کنید
+شما می توانید بصورت مستقیم این بانک اطلاعاتی را که با نام **full-enamad-db.rar** مشخص شده است را دانلود کنید
 همچنین با توجه به این که قصد بروز رسانی این ابزار را تا مدت های طولانی ندارم در صورت قدیمی شدن بانک اطلاعاتی می توانید از اسکریپت جهت استخراج اطلاعات مجوز داران استفاده نمایید
 
 **این بانک اطلاعاتی به مقدار 217857 نفر و حجم 25 مگابایت که آخرین بروز رسانی آن تاریخ 27 اردیبهشت 1403 می باشد**
@@ -20,7 +20,7 @@ Also, if your information is in this database and you do not want it to be share
 
 _The activity of this crawler is legal because it collects only the websites that have registered on the Inmad site and shared their information themselves._
 
-You can directly download this database named **full-enamad-db.xlsx**
+You can directly download this database named **full-enamad-db.rar**
 Also, due to the fact that I do not intend to update this tool for a long time, if the database becomes old, you can use the script to extract the license holders' information.
 
 **This database has a volume of 7 and a volume of 8, the last update of which is the date of 5/16/2024**
